@@ -11,6 +11,6 @@ This demo project used as inspiration the [official Oracle documentation](https:
 
 ## Issue Tracking
 For the purpose of demonstrating a complete Agile Workflow, we created a Jira instance that you can find [here](https://loose.atlassian.net/projects/SM/issues). You will need to use the ID's of the User Stories created there in your commit messages.
-Docheru e mare barosan
+Docheru e mare barosangfdg
 ## _Happy Coding_
 Have a nice time implementing the project!
